@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524390087 source:/home/joey/Documents/untitled folder/reverseQueue/main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
