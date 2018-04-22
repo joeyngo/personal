@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524297348 source:/home/joey/Documents/untitled folder/moveOddItemsToBack/main.c
+	<stdio.h>
+	<stdlib.h>
+
